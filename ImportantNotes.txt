@@ -1,0 +1,9 @@
+------Modulo Arithmetic------
+1.a%b=c gives the reminder.
+2.modulo operation result will range b/w 0-(n-1) i.e.there will be no negative values.
+3.Modulo Arithmetic Properties.
+  3.1 (a+b)%c=((a%c)+(b%c))%c
+  3.2 (a-b)%c=((a%c)-(b%c))%c
+  3.3 (a*b)%c=((a%c)*(b%c))%c
+  3.4 (a%b)%c=((a%c)%(b%c))%c
+  3.5 (3.4) will not hold true unless the condition of inverse multiplicative modulo
